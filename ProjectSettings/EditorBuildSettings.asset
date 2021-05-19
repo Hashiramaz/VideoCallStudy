@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Demo+/AppScreenShareScene.unity
+    guid: 4515f39c9112c4272a14a078069b78d5
+  - enabled: 1
+    path: Assets/Demo+/DesktopScreenShareScene.unity
+    guid: 769bdc0723fa446899e34b76d11c92d6
+  - enabled: 1
+    path: Assets/Demo+/MainScene.unity
+    guid: eadb1a9238f764e84a7034c35f016e56
+  - enabled: 1
+    path: Assets/Demo+/One2OneScene.unity
+    guid: af091096027a64592854026bce332bca
+  - enabled: 1
+    path: Assets/Demo+/TranscodingScene.unity
+    guid: 7bb4d5d35cb3a4bc3a3ea85d0247a930
   m_configObjects: {}
